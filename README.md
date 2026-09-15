@@ -10,13 +10,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📖 学习路线
-
-```
-第 1-2 周        第 3-4 周       第 5-6 周        第 7-8 周
-   C 基础    →    51 单片机   →   STM32+CubeMX  →  项目实战
-```
-
 ### 🎯 当前进度
 
 - 🔥 正在啃 C 语言基础（指针、结构体、文件操作）
